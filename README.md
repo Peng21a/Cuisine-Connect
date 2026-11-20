@@ -29,7 +29,7 @@ Les outils utilisés sont :
 - Confluence
   
 -  Github
-- 
+  
 -  Draw.io
 
 ## 5.  Liens vers les diagrammes UML et la documentation Confluence.
